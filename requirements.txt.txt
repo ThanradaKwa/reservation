@@ -1,2 +1,7 @@
 # requirements.txt
 gsheetsdb==0.1.13.1
+pandas
+google_api_python_client
+protobuf
+streamlit==1.4.0
+click==8
