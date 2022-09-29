@@ -5,12 +5,6 @@ google_api_python_client
 protobuf
 streamlit==1.4.0
 click==8
-google-api-core               
-google-api-python-client     
-google-auth                  
-google-auth-httplib2          
-google-cloud-core             
-google-cloud-storage         
-google-crc32c                 
-google-resumable-media        
-googleapis-common-protos    
+ggoogle-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
